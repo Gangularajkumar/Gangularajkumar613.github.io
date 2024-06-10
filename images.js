@@ -14,7 +14,7 @@ const images = [
     '12.jpg',
     '13.jpg',
     '14.jpg',
-    '15.jpg'
+    '15.jpg',
     'Snapchat-207251271.jpg'
     // Add more image file names here
 ];
