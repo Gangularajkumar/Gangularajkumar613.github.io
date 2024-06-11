@@ -28,6 +28,12 @@
     padding-bottom: 10px;
     border-bottom: 3px solid #222;
 }
+.container .heading h3 img.instagram-logo {
+    width: 1em; /* Set width relative to font size */
+    height: auto; /* Maintain aspect ratio */
+    vertical-align: middle; /* Align vertically with text */
+    margin-right: 10px; /* Space between image and text */
+}
 
 .container .heading h2 span{
     font-weight: 100;
@@ -54,6 +60,21 @@
 .container .box .grid img:hover {
     transform: scale(1.03); /* Enlarge image on hover */
     cursor: pointer; /* Change cursor to pointer on hover */
+}
+/* Remove underline and change color of links */
+a {
+    text-decoration: none;
+    color: inherit; /* Inherit color from parent element */
+}
+
+/* Optionally, specify a color if you don't want it to inherit */
+a {
+    color: black; /* Or any color you prefer */
+}
+
+/* Ensure the link does not change color when visited */
+a:visited {
+    color: black; /* Or any color you prefer */
 }
 
 @media only screen and (max-width: 750px)
