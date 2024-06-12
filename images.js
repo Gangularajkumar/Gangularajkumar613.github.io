@@ -18,7 +18,7 @@ const images = [
     'IMG_20240301_162154_358.jpg',
     'Snapchat-207251271.jpg',
     'IMG_20231220_210835_584.jpg',
-    'IMG_20240429_091130_565.jpg',
+    'IMG_20240429_091130_565.jpg'
     // Add more image file names here
 ];
 
