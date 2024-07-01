@@ -6,7 +6,6 @@ const images = [
     '4.jpg',
     '5.jpg',
     'IMG_20240616_110133.jpg',
-    'Snapchat-74229739.jpg',
     'Snapchat-200286665.jpg',
     'Snapchat-616391585.jpg',
     'IMG_20240630_190537.jpg',
