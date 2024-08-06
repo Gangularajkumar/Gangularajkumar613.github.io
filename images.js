@@ -1,6 +1,7 @@
 // List of image file names
 const images = [
     '2.jpg',
+    'IMG_20240616_110133.jpg',
     'IMG_20240413_170548.jpg',
     '3.jpg',
     '4.jpg',
